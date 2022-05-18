@@ -2,8 +2,10 @@
 ##                                      - Iam the biggest virgin around :trollface:
 ##                                      - Learning python, js and java
 ##                                      - Linux user
-## 
-
+<div id="badges">
+  <a href="https://www.youtube.com/channel/UC1Uvp0PCq1Gp441oeNEO0YA">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+</div>
 <!--
 **K1llb0t/K1llb0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
