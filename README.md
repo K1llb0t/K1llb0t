@@ -1,7 +1,7 @@
-##                                     #[$]=============[README.md]=============[$] 
-##                                      #- Iam the biggest virgin around :trollface:
-##                                      #- Learning python, js and java
-##                                      #- Linux user
+##                                     [$]=============[README.md]=============[$] 
+##                                      - Iam the biggest virgin around :trollface:
+##                                      - Learning python, js and java
+##                                      - Linux user
 ## 
 
 <!--
