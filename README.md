@@ -1,8 +1,8 @@
-###                                     #[$]=============[README.md]=============[$] 
-###                                      #- Iam the biggest virgin around :trollface:
-###                                      #- Learning python, js and java
-###                                      #- Linux user
-### 
+##                                     #[$]=============[README.md]=============[$] 
+##                                      #- Iam the biggest virgin around :trollface:
+##                                      #- Learning python, js and java
+##                                      #- Linux user
+## 
 
 <!--
 **K1llb0t/K1llb0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
