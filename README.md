@@ -1,5 +1,5 @@
 ##                                     [$]=============[README.md]=============[$] 
-##                                      - Iam the biggest virgin around :trollface:
+##                                      - I am the biggest virgin around :trollface:
 ##                                      - Learning python, js and java 💻
 ##                                      - Linux user 🐧
 ##                                      - Professional Skidder ⌨️
